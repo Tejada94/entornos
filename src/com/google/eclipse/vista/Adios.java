@@ -1,12 +1,26 @@
 package com.google.eclipse.vista;
 
 public class Adios {
-	public static void main(String[] args) {
+	public static void main (string[] args) {
 	
 	System.out.println("Adios");
 	System.out.println("Adios");
-
+	
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	System.out.println("Adios");
+	
 	}
-	
 
 }
